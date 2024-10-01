@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Gemfile" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/controllers/application_controller.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bin/rails" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/database.yml" charset="UTF-8" />
   </component>
 </project>
