@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../../../Ruby32-x64/lib/ruby/gems/3.2.0/gems/rspec-core-3.13.1/lib/rspec/core/memoized_helpers.rb" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/350be709-91da-40f1-a6b2-437a4693d3b0/console.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b79c0b5d-1c20-48bd-9312-9503c6975ad0/console.sql" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Gemfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/controllers/api/v1/tasks_controller.rb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/controllers/application_controller.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/models/task.rb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bin/rails" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/database.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/initializers/cors.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/routes.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/migrate/20241001132825_create_tasks.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spec/models/task_spec.rb" charset="UTF-8" />
   </component>
 </project>
